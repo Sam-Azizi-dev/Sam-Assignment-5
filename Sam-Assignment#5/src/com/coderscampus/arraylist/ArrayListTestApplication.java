@@ -7,7 +7,7 @@ public class ArrayListTestApplication {
 
 	public static void main(String[] args) {
 		List <String> mainlist = new ArrayList<>();
-		mainlist.add("test")
+		mainlist.add("test");
 		
 		
 		CustomArrayList<String> newList = new CustomArrayList<>();
